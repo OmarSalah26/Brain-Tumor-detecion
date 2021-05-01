@@ -4,6 +4,8 @@
 
 <h1>Accuracy and Loss Graph</h1>
 ![● brain-tumor-detection-with-2-dataset ipynb - Visual Studio Code 01_05_2021 04_38_52 م](https://user-images.githubusercontent.com/50035756/116786229-cc5a7600-aa9d-11eb-9b05-42f0f8c0b2a4.png)
+
+<img src="https://user-images.githubusercontent.com/50035756/116786229-cc5a7600-aa9d-11eb-9b05-42f0f8c0b2a4.png">
 <h2>Description </h2>
 
 in this project I used two MRI dataset and combine between it ,  the first dataset <a href="https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection">Brain MRI Images for Brain Tumor Detection </a> that contain two category are tumor and non-tumor  .
